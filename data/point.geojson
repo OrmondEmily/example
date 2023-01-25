@@ -3,6 +3,7 @@
 "name": "point",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ -46.781115927341034, -5.571557607102264 ] } },
 { "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -44.635002681897191, -8.679721617745056 ] } }
 ]
 }
